@@ -62,8 +62,8 @@ java Main
 
 ## Próximos passos
 
-- [ ] Herança: criar a `ContaPoupanca` a partir da `Conta`.
-- [ ] Polimorfismo e abstração.
+- [x] Herança: criar a `ContaPoupanca` a partir da `Conta`.
+- [x] Polimorfismo e abstração.
 - [ ] Guardar os atributos como `private` também no `titular`, com getter e setter.
 - [ ] Validar valores negativos no depósito e no saque.
 
